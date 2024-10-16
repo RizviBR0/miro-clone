@@ -32,4 +32,4 @@ Make sure you have the following installed on your machine:
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:your-username/miro-clone.git
+git clone https://github.com/RizviBR0/miro-clone.git
